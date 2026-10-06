@@ -47,4 +47,8 @@ Run 2: 3 passing / 2 failing → 5 passing / 0 failing, 0 regressions, two bugs 
 Whole-file rewrites, up to 3 attempts, depends on the LLM's quality and on tests existing.
 
 ## Team
-[Name: role] x4
+1.SJ
+2.NM
+3.US
+4.KS
+
